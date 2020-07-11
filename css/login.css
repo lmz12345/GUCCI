@@ -1,0 +1,309 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+/* 导航栏 */
+#div1{
+	/* position: relative; */
+	/* border: 2px solid blue; */
+	width: 100%;
+	height: 120px;
+	background: #1d1b18;
+	
+}
+.div1-1{
+	width: 16%;
+	/* text-align: center; */
+	/* border: 1px solid red; */
+	float: left;
+}
+#notice1{
+	margin-top: 10px;
+	margin-left: 20px;
+	position: relative;
+}
+.span1{
+	color: white;
+	font-size: 12px;
+	margin-top: 10px;
+	position: absolute;
+}
+.span2{
+	margin-left: 10px;
+}
+.span3{
+	margin-left: 10px;
+}
+.p1{
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	letter-spacing: 15px;
+	
+	margin-top: 15px;
+}
+a{
+	text-decoration: none;
+}
+.tab-nav li{
+	list-style: none;
+	float: left;
+	margin-left: 56px;
+	/* border: 1px solid wheat; */
+	color: white;
+	font-size: 15px;
+}
+.div1-2{
+	width: 68%;
+	/* border: 1px solid blue; */
+	float: left;
+}
+.div1-3{
+	width: 16%;
+	margin-top: 20px;
+	/* border: 1px solid green; */
+	float: left;
+}
+.span4{
+	color: white;
+	font-size: 12px;
+}
+.span5{
+	color: white;
+	font-size: 12px;
+	margin-left: 80px;
+}
+.img2{
+	width: 15px;
+	height: 12px;
+	margin-top: 7px;
+	margin-left: 10px;
+	position: absolute;
+}
+.img3{
+	width: 15px;
+	height: 12px;
+	margin-top: 7px;
+	margin-left: 55px;
+	position: absolute;
+}
+.img4{
+	width: 30px;
+	height: 30px;
+	margin-left: 30px;
+	position: absolute;
+}
+/* 登录注册 */
+#div2{
+	width: 97%;
+	margin: 0 auto;
+	margin-top: 15px;
+	background: #e6e6e6;
+	height: 600px;
+}
+#div3{;
+	width: 50%;
+	margin: 0 auto;
+}
+.dlp1{
+	font-size: 30px;
+	letter-spacing: 5px;
+	text-align: center;
+}
+#img1{
+	width: 100%;
+}
+#left{
+	width: 45%;
+	float: left;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+#kong{
+	width: 9%;
+	float: left;
+	text-align: center;
+}
+#img2{
+	height: 380px;
+}
+#right{
+	width: 45%;
+	float: left;
+	margin: 0 auto;
+	margin-top: 35px;
+}
+#tab1{
+	margin: 0 auto;
+	line-height: 35px;
+	margin-top: 20px;
+}
+#ipt1{
+	width: 240px;
+	height: 30px;
+}
+#ipt2{
+	width: 240px;
+	height: 30px;
+}
+
+#ipt4{
+	width: 240px;
+	height: 34px;
+	background: black;
+	color: white;
+	border: 0;
+}
+.mm{
+	text-align: center;
+}
+.m2{
+	color: gray;
+}
+.r{
+	color: red;
+}
+/* 右边 */
+#tab2{
+	margin: 0 auto;
+	line-height: 35px;
+	margin-top: 20px;
+}
+#tipt1{
+	width: 290px;
+	height: 30px;
+}
+#tipt2{
+	width: 160px;
+	height: 30px;
+}
+#tipt5{
+	margin-left: 65px;
+	width: 160px;
+	height: 30px;
+	background: black;
+	color: white;
+	border: 0;
+}
+.dlz2{
+	font-size: 12px;
+}
+/* 底部 */
+#div7{
+	width: 100%;
+	margin-top: 10px;
+	background: #1b1b1b;
+	height: 400px;
+	position: relative;
+}
+.div7-1{
+	width: 13%;
+	float: left;
+}
+.div7-2{
+	width: 15%;
+	float: left;
+	margin-top: 60px;
+}
+.div7-3{
+	width: 17%;
+	float: left;
+	margin-top: 60px;
+}
+.div7-4{
+	width: 25%;
+	float: left;
+	margin-top: 60px;
+}
+.z1{
+	color: gray;
+	font-size: 14px;
+}
+.div7-2-1{
+	float: left;
+}
+.z2{
+	font-size: 12px;
+	color: white;
+	margin-top: 2px;
+	line-height: 20px;
+}
+.z3{
+	font-size: 12px;
+	color: white;
+	margin-top: 6px;
+}
+.div7-2-2{
+	float: left;
+	margin-left: -33px;
+}
+.div7-2-3{
+	float: left;
+	margin-left: -32px;
+	margin-top: 6px;
+}
+.div7-2-4{
+	float: left;
+	margin-top: 6px;
+}
+.div7-2-5{
+	float: left;
+	margin-left: -22px;
+	margin-top: 6px;
+}
+.img12{
+	margin-top: -5px;
+}
+#input1{
+	background: #000000;
+	color: gray;
+	height: 25px;
+}
+select{
+	background: black;
+	color: white;
+	height: 25px;
+	width: 150px;
+}
+.z4{
+	color: gray;
+	font-size: 14px;
+	margin-top: 10px;
+}
+.img13{
+	width: 80px;
+	margin-left: 5px;
+}
+.z5{
+	font-size: 12px;
+	color: gray;
+}
+.div7-5-1{
+	float: left;
+}
+.div7-5-2{
+	float: left;
+	/* border: 1px solid red; */
+}
+.div7-5-3{
+	float: left;
+	margin-left: 20px;
+	/* border: 1px solid red; */
+}
+.div7-5-4{
+	/* margin-left: 300px; */
+	float: left;
+	/* border: 1px solid red; */
+}
+.div7-5-5{
+	margin-left: 20px;
+	margin-top: 3px;
+	float: left;
+	/* border: 1px solid red; */
+}
+.div7-5-6{
+	float: left;
+	margin-left: 30px;
+	/* border: 1px solid red; */
+}
+

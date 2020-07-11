@@ -1,0 +1,338 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #E6E6E6;
+}
+#div1{
+	width: 100%;
+	height: 120px;
+	background: #1d1b18;
+	z-index: 1;
+	
+}
+.div1-1{
+	width: 16%;
+	float: left;
+}
+#notice1{
+	margin-top: 10px;
+	margin-left: 20px;
+	position: relative;
+}
+.span1{
+	color: white;
+	font-size: 12px;
+	margin-top: 10px;
+	position: absolute;
+}
+.span2{
+	margin-left: 10px;
+}
+.span3{
+	margin-left: 10px;
+}
+.p1{
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	letter-spacing: 15px;
+	margin-top: 15px;
+}
+a{
+	text-decoration: none;
+}
+.tab-nav li{
+	list-style: none;
+	float: left;
+	margin-left: 56px;
+	color: white;
+	font-size: 15px;
+}
+.div1-2{
+	width: 68%;
+	float: left;
+}
+.div1-3{
+	width: 16%;
+	margin-top: 20px;
+	float: left;
+}
+.span4{
+	color: white;
+	font-size: 12px;
+}
+.span5{
+	color: white;
+	font-size: 12px;
+	margin-left: 80px;
+}
+.img2{
+	width: 15px;
+	height: 12px;
+	margin-top: 7px;
+	margin-left: 10px;
+	position: absolute;
+}
+.img3{
+	width: 15px;
+	height: 12px;
+	margin-top: 7px;
+	margin-left: 55px;
+	position: absolute;
+}
+.img4{
+	width: 30px;
+	height: 30px;
+	margin-left: 30px;
+	position: absolute;
+}
+
+.tab-nav{
+	position: relative;
+}
+#continer{
+	width: 100%;
+}
+#left{
+	width: 50%;
+	float: left;
+}
+#right{
+	width: 39%;
+	position: fixed;
+	right: 0;
+	top: 135px;
+}
+.xqp{
+	font-size: 22px;
+	letter-spacing: 2px;
+}
+#xqimg{
+	margin-top: 2px;
+	position: absolute;
+}
+hr{
+	width: 58%;
+	color: #000000;
+	margin-top: 20px;
+}
+.xqp2{
+	font-size: 14px;
+	color: gray;
+	margin-top: 10px;
+}
+#kuang{
+	width: 58%;
+	height: 30px;
+	border: 1px solid darkgray;
+}
+#img{
+	float: left;
+}
+#span{
+	float: left;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+#xtb{
+	width: 27px;
+	height: 27px;
+	margin-top: 2px;
+	margin-left: 3px;
+}
+.xqspan{
+	font-size: 13px;
+}
+#shugang{
+	float: left;
+	margin-top: 5px;
+	margin-left: 60px;
+	color: gray;
+}
+#kuanshi{
+	float: left;
+	margin-top: 8px;
+	margin-left: 16px;
+	font-size: 13px;
+}
+.xqp3{
+	margin-top: 10px;
+	font-style: oblique;
+	font-size: 13px;
+	color: gray;
+}
+#xqbtn{
+	margin-top: 10px;
+	width: 58%;
+	height: 40px;
+	border: 0;
+	background: black;
+}
+.xqspan2{
+	color: white;
+}
+#xqimg2{
+	float: left;
+}
+#span2{
+	float: left;
+	font-size: 13px;
+}
+#xqimg3{
+	float: left;
+}
+#span3{
+	float: left;
+	font-size: 13px;
+}
+#span4{
+	float: left;
+	font-size: 13px;
+}
+#xqimg4{
+	float: left;
+	width: 30px;
+	height: 25px;
+	margin-top: -2px;
+}
+.xqimg4{
+	width: 100%;
+	height: 100%;
+}
+#kuang2{
+	margin-top: 20px;
+}
+#kuang3{
+	margin-top: 20px;
+}
+#kuang4{
+	width: 58%;
+	margin-top: 10px;
+	height: 10px;
+}
+#span5{
+	float: right;
+	font-weight: bold;
+}
+#xqimg5{
+	float: left;
+	width: 20px;
+	height: 20px;
+	margin-top: -3px;
+}
+#span6{
+	float: left;
+	font-size: 10px;
+	color: gray;
+}
+#span7{
+	float: right;
+	font-size: 10px;
+	color: gray;
+}
+#kuang5{
+	width: 58%;
+	margin-top: 15px;
+}
+.xqimg5{
+	width: 100%;
+	height: 100%;
+}
+#xuanze{
+	border: 1px solid red;
+}
+/* 二级菜单 */
+#er{
+	width: 100%;
+	height: 300px;
+	position: absolute;
+	z-index: 1;
+	background: rgba(0,0,0,0.4);
+}
+.er1{
+	width: 40%;
+	height: 300px;
+	margin-left: 30%;
+}
+.u1{
+	float: left;
+	list-style: none;
+}
+.u2{
+	float: left;
+	margin-left: 50px;
+	list-style: none;
+}
+
+.li1{
+	font-weight: bold;
+	line-height: 80px;
+}
+ 
+/* 第二个二级菜单 */
+#er2{
+	width: 100%;
+	height: 300px;
+	position: absolute;
+	z-index: 1;
+	background: rgba(0,0,0,0.4);
+}
+#er2-2{
+	width: 40%;
+	height: 300px;
+	margin-left: 30%;
+}
+.u2-2{
+	float: left;
+	list-style: none;
+}
+.u2-3{
+	float: left;
+	margin-left: 50px;
+	list-style: none;
+}
+
+#dla{
+	width: 210px;
+	height: 200px;
+	background: white;
+	display: none;
+	position: absolute;
+	z-index: 1;
+	border-radius: 15px;
+}
+.dla{
+	width: 190px;
+	margin: 0 auto;
+	margin-top: 16px;
+}
+#dl{
+	width: 100%;
+	background: black;
+	color: white;
+	border: 0;
+	border-radius: 15px;
+	height: 30px;
+	margin-top: 10px;
+	
+}
+#dl2{
+	width: 100%;
+	background: white;
+	border: 2px solid black;
+	border-radius: 15px;
+	height: 30px;
+	margin-top: 10px;
+}
+.dlzt{
+	font-size: 12px;
+	line-height: 20px;
+}
+a{
+	text-decoration: none;
+}
+.span6{
+	color: white;
+}
